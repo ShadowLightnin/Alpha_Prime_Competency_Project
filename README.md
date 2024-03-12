@@ -1,6 +1,6 @@
 # **Alpha_Prime_Competency_Project**
 
-### *This was the original compentency project about a resort*
+### *This was the original compentency project to show my skills of what I learned then*
 
 
 ***Links***
